@@ -1,2 +1,3 @@
-# Region-Unlocker-
-Region unlocker for Goated.com and other casinos.
+Nothing here yet.
+
+Install a userscript manager to import these bypasses.
