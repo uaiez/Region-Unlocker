@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Region Unlocker — Goated.com
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-17.2
+// @version      2026-08-17.3
 // @description  Regionlock bypass for casino webpages
-// @author       You
+// @author       uaiez
 // @match        https://goated.com/*
 // @match        https://www.goated.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=goated.com
